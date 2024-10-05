@@ -4,4 +4,4 @@ Focusing on static design elements, which need to be displayed through different
 screen sizes. Margin, border and padding for element boxes, navbars, hero image, 
 cards, accordions, article and aside.
 
-Deployed code on https://generativestaticpages.pages.dev/ and https://soft-caramel-963de2.netlify.app/
+Deployed code on https://generativestaticpages.pages.dev/ , https://demo-features-web.pages.dev/ and https://soft-caramel-963de2.netlify.app/
